@@ -1,5 +1,6 @@
-# vam-acidbubbles-home
-The home page to get information about my plugins and programs
+# Virt-A-Mate Acidbubbles Plugins & Tools Home
+
+The page to get information about my plugins and programs and discuss ideas.
 
 ## Plugins
 
