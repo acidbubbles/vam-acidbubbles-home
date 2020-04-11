@@ -9,7 +9,6 @@ The page to get information about my plugins and programs and discuss ideas.
 * [Passenger](https://github.com/acidbubbles/vam-passenger) You follow the possessed model's head, not the other way around 
 * [Snug](https://github.com/acidbubbles/vam-snug) Help better control the VR controller offset with the controller it controls (yep) 
 * [Director](https://github.com/acidbubbles/vam-director) Sequence camera angles using an animation pattern 
-* [Floating UI Components](https://github.com/acidbubbles/vam-floating-ui-components) Floating UI components for Virt-A-Mate
 * [Utilities](https://github.com/acidbubbles/vam-utilities) A collection of very small scripts and tools for Virt-A-Mate 
 * [Keyboard Triggers](https://github.com/acidbubbles/vam-keyboard-triggers) Executes triggers when receiving keypresses
 
@@ -20,3 +19,7 @@ The page to get information about my plugins and programs and discuss ideas.
 ## Templates
 
 * [Plugin Template](https://github.com/acidbubbles/vam-plugin-template) A template for Virt-A-Mate plugins (using vscode) 
+
+## Other
+
+* [All Projects](https://github.com/acidbubbles) All my projects, including some obsolete, unfinished and non-vam ones.
