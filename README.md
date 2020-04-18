@@ -9,7 +9,7 @@ The page to get information about my plugins and programs and discuss ideas.
 * [Passenger](https://github.com/acidbubbles/vam-passenger) You follow the possessed model's head, not the other way around 
 * [Snug](https://github.com/acidbubbles/vam-snug) Help better control the VR controller offset with the controller it controls (yep) 
 * [Director](https://github.com/acidbubbles/vam-director) Sequence camera angles using an animation pattern 
-* [RigidBodyDisabler](https://github.com/acidbubbles/vam-rigidbody-disabler) Disable colliders
+* [Collider Tuner](https://github.com/acidbubbles/vam-collider-tuner) Disables and adjusts colliders
 * [Utilities](https://github.com/acidbubbles/vam-utilities) A collection of very small scripts and tools for Virt-A-Mate 
 * [Keyboard Triggers](https://github.com/acidbubbles/vam-keyboard-triggers) Executes triggers when receiving keypresses
 
