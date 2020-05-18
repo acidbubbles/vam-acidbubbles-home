@@ -11,6 +11,7 @@ The page to get information about my plugins and programs and discuss ideas.
 * [Snug](https://github.com/acidbubbles/vam-snug) Help better control the VR controller offset with the controller it controls (yep) 
 * [Director](https://github.com/acidbubbles/vam-director) Sequence camera angles using an animation pattern 
 * [Cornwall](https://github.com/acidbubbles/vam-cornwall) Audio-only breathing script using built-in Pixie audio clips  
+* [Dev Tools](https://github.com/acidbubbles/vam-devtools) A collection of plugins to help with plugins development
 * [Utilities](https://github.com/acidbubbles/vam-utilities) A collection of very small scripts and tools for Virt-A-Mate 
 * [Keyboard Triggers](https://github.com/acidbubbles/vam-keyboard-triggers) Executes triggers when receiving keypresses
 
