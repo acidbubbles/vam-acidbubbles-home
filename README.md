@@ -7,7 +7,7 @@ The page to get information about my plugins and programs and discuss ideas.
 * [Timeline](https://github.com/acidbubbles/vam-timeline) A animation timeline for Virt-A-Mate with bezier curves and keyframes 
 * [Improved PoV](https://github.com/acidbubbles/vam-improved-pov) Improved PoV (Point of View) camera handling in Virt-A-Mate 
 * [Passenger](https://github.com/acidbubbles/vam-passenger) You follow the possessed model's head, not the other way around 
-* [Collider Tuner](https://github.com/acidbubbles/vam-collider-tuner) Disables and adjusts colliders
+* [Collider Editor](https://github.com/acidbubbles/vam-collider-editor) Disables and adjusts colliders
 * [Snug](https://github.com/acidbubbles/vam-snug) Help better control the VR controller offset with the controller it controls (yep) 
 * [Director](https://github.com/acidbubbles/vam-director) Sequence camera angles using an animation pattern 
 * [Cornwall](https://github.com/acidbubbles/vam-cornwall) Audio-only breathing script using built-in Pixie audio clips  
