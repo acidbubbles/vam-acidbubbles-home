@@ -36,4 +36,5 @@ The page to get information about my plugins and programs and discuss ideas.
 
 ## Other
 
+* [EasyMoean](https://github.com/acidbubbles/vam-easymoan) A plugin made by geesp0t that I adapted and fixed for VaM 1.20
 * [All Projects](https://github.com/acidbubbles) All my projects, including some obsolete, unfinished and non-vam ones.
