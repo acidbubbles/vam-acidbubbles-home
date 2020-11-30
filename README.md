@@ -20,6 +20,7 @@ The page to get information about my plugins and programs and discuss ideas.
 * [Collider Editor](https://github.com/acidbubbles/vam-collider-editor) Disables and adjusts colliders
 * [Snug](https://github.com/acidbubbles/vam-snug) Help better control the VR controller offset with the controller it controls (yep) 
 * [Rubberleash](https://github.com/acidbubbles/vam-rubberleash) Smoothly attaches to another atom, like parenting but with interpolation and triggers
+* [Spawn Point](https://github.com/acidbubbles/vam-spawnpoint) Move the player to the desired spot, using a trigger or on load
 * [Director](https://github.com/acidbubbles/vam-director) Sequence camera angles using an animation pattern 
 * [Cornwall](https://github.com/acidbubbles/vam-cornwall) Audio-only breathing script using built-in Pixie audio clips  
 * [Dev Tools](https://github.com/acidbubbles/vam-devtools) A collection of plugins to help with plugins development
