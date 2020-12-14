@@ -15,6 +15,7 @@ The page to get information about my plugins and programs and discuss ideas.
 ## Plugins
 
 * [Timeline](https://github.com/acidbubbles/vam-timeline) A animation timeline for Virt-A-Mate with bezier curves and keyframes 
+* [Keybindings](https://github.com/acidbubbles/vam-keybindings) Advanced keybindings and commands fuzzy search for quick Virt-A-Mate navigation
 * [Improved PoV](https://github.com/acidbubbles/vam-improved-pov) Improved PoV (Point of View) camera handling in Virt-A-Mate 
 * [Passenger](https://github.com/acidbubbles/vam-passenger) You follow the possessed model's head, not the other way around 
 * [Collider Editor](https://github.com/acidbubbles/vam-collider-editor) Disables and adjusts colliders
